@@ -80,7 +80,7 @@ Tasks
 - [x] Install VS Code
 - [x] Install GitHub Desktop
 - [x] Create GitHub Repository
-- [ ] Create MongoDB Atlas Account
+- [x] Create MongoDB Atlas Account
 
 Git Commit
 
@@ -119,7 +119,7 @@ Set up React frontend with Vite
 # Phase 2 - Backend Server
 
 Status:
-⬜ Not Started
+🟨 In Progress
 
 Tasks
 
