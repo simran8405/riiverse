@@ -119,17 +119,17 @@ Set up React frontend with Vite
 # Phase 2 - Backend Server
 
 Status:
-🟨 In Progress
+✅ Completed
 
 Tasks
 
-- [ ] Initialize Node
-- [ ] Install Express
-- [ ] Install Nodemon
-- [ ] Install dotenv
-- [ ] Install CORS
-- [ ] Create Express Server
-- [ ] Test API
+- [x] Initialize Node
+- [x] Install Express
+- [x] Install Nodemon
+- [x] Install dotenv
+- [x] Install CORS
+- [x] Create Express Server
+- [x] Test API
 
 Goal
 
@@ -144,7 +144,7 @@ Create Express server
 # Phase 3 - MongoDB
 
 Status:
-⬜ Not Started
+🟨 In Progress
 
 Tasks
 
