@@ -102,9 +102,9 @@ Tasks
 - [x] Install React Dependencies
 - [x] Run React Project
 - [x] Push First React Commit
-- [ ] Clean React Template
-- [ ] Create Professional Folder Structure
-- [ ] Create Home Page
+- [x] Clean React Template
+- [x] Create Professional Folder Structure
+- [x] Create Home Page
 
 Goal
 
