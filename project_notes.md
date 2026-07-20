@@ -144,14 +144,14 @@ Create Express server
 # Phase 3 - MongoDB
 
 Status:
-🟨 In Progress
+✅ Completed
 
 Tasks
 
-- [ ] Create MongoDB Atlas Cluster
-- [ ] Connect Database
-- [ ] Create Database Config
-- [ ] Test Connection
+- [x] Create MongoDB Atlas Cluster
+- [x] Connect Database
+- [x] Create Database Config
+- [x] Test Connection
 
 Goal
 
@@ -166,7 +166,7 @@ Connect MongoDB Atlas
 # Phase 4 - Authentication
 
 Status:
-⬜ Not Started
+🟨 In Progress
 
 Tasks
 
