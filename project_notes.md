@@ -1,744 +1,467 @@
-\# 🛒 ShopSphere - Full Stack E-Commerce Website
+# 🛒 Riiverse - Full Stack MERN E-Commerce Website
 
+## Project Goal
 
+Build a professional Full Stack MERN E-Commerce Website completely from scratch while understanding every concept.
 
-\## Project Goal
+This project will be:
 
-Build a professional MERN Stack E-Commerce Website from scratch while understanding every concept. This project will be uploaded to GitHub and included in my resume.
+- Uploaded to GitHub
+- Added to my Resume
+- Used in interviews
+- Deployed online
 
+---
 
+# Tech Stack
 
-\---
+## Frontend
 
+- React (Vite)
+- React Router DOM
+- Axios
+- Tailwind CSS
 
+## Backend
 
-\# Tech Stack
+- Node.js
+- Express.js
 
+## Database
 
+- MongoDB Atlas
+- Mongoose
+
+## Authentication
+
+- JWT
+- bcrypt
+
+## Deployment
 
 Frontend
-
-\- React (Vite)
-
-\- React Router
-
-\- Axios
-
-\- Tailwind CSS
-
-
+- Vercel
 
 Backend
-
-\- Node.js
-
-\- Express.js
-
-
+- Render
 
 Database
-
-\- MongoDB Atlas
-
-\- Mongoose
-
-
-
-Authentication
-
-\- JWT
-
-\- bcrypt
-
-
-
-Deployment
-
-\- Frontend: Vercel
-
-\- Backend: Render
-
-
+- MongoDB Atlas
 
 Version Control
+- Git
+- GitHub
 
-\- Git
+---
 
-\- GitHub
+# Project Structure
 
-
-
-\---
-
-
-
-\# Folder Structure
-
-
-
-ecommerce-project/
-
-
+Riiverse/
 
 client/
-
 server/
 
+README.md
+PROJECT_NOTES.md
 
+---
 
-\---
+# Development Roadmap
 
+# Phase 0 - Environment Setup
 
-
-\# Development Roadmap
-
-
-
-\## Phase 0 - Environment Setup
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+✅ Completed
 
 Tasks
 
-\- Install Node.js
-
-\- Install Git
-
-\- Install VS Code
-
-\- Install GitHub Desktop
-
-\- Create MongoDB Atlas Account
-
-\- Create GitHub Repository
-
-\- Create Project Folder
-
-
+- [x] Install Node.js
+- [x] Install Git
+- [x] Install VS Code
+- [x] Install GitHub Desktop
+- [x] Create GitHub Repository
+- [ ] Create MongoDB Atlas Account
 
 Git Commit
 
 Initial project setup
 
+---
 
+# Phase 1 - Project Initialization
 
-\---
-
-
-
-\## Phase 1 - Project Initialization
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+🟨 In Progress
 
 Tasks
 
-\- Initialize Git
-
-\- Create client folder
-
-\- Create server folder
-
-\- Create React app
-
-\- Initialize Express
-
-\- Install backend packages
-
-
+- [x] Initialize Git
+- [x] Create client folder
+- [x] Create server folder
+- [x] Create React Project (Vite)
+- [x] Install React Dependencies
+- [x] Run React Project
+- [x] Push First React Commit
+- [ ] Clean React Template
+- [ ] Create Professional Folder Structure
+- [ ] Create Home Page
 
 Goal
 
-Frontend runs successfully
-
-Backend folder created
-
-
+React Project Running Successfully
 
 Git Commit
 
-Setup MERN project structure
+Set up React frontend with Vite
 
+---
 
+# Phase 2 - Backend Server
 
-\---
-
-
-
-\## Phase 2 - Backend Server
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Create Express server
-
-\- Configure CORS
-
-\- Configure dotenv
-
-\- Test API
-
-\- Run server with Nodemon
-
-
+- [ ] Initialize Node
+- [ ] Install Express
+- [ ] Install Nodemon
+- [ ] Install dotenv
+- [ ] Install CORS
+- [ ] Create Express Server
+- [ ] Test API
 
 Goal
 
-GET / returns "API Running"
-
-
+API Running Successfully
 
 Git Commit
 
 Create Express server
 
+---
 
+# Phase 3 - MongoDB
 
-\---
-
-
-
-\## Phase 3 - MongoDB
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Create Atlas Cluster
-
-\- Connect Database
-
-\- Create config
-
-\- Test connection
-
-
+- [ ] Create MongoDB Atlas Cluster
+- [ ] Connect Database
+- [ ] Create Database Config
+- [ ] Test Connection
 
 Goal
 
-MongoDB Connected Successfully
-
-
+MongoDB Connected
 
 Git Commit
 
 Connect MongoDB Atlas
 
+---
 
+# Phase 4 - Authentication
 
-\---
-
-
-
-\## Phase 4 - Authentication
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- User Model
-
-\- Register API
-
-\- Login API
-
-\- Password Hashing
-
-\- JWT Authentication
-
-\- Protected Routes
-
-
+- [ ] User Schema
+- [ ] Register API
+- [ ] Login API
+- [ ] Password Hashing
+- [ ] JWT Authentication
+- [ ] Protected Routes
 
 Goal
 
-User can Register/Login
-
-
+Users Can Register & Login
 
 Git Commit
 
-Implement user authentication
+Implement authentication
 
+---
 
+# Phase 5 - Frontend Authentication
 
-\---
-
-
-
-\## Phase 5 - Frontend Authentication
-
-
-
-Status: ⬜ Not Started
-
-
-
-Pages
-
-\- Login
-
-\- Register
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Forms
-
-\- Validation
-
-\- Connect API
-
-\- Store JWT
-
-\- Logout
-
-
+- [ ] Login Page
+- [ ] Register Page
+- [ ] Validation
+- [ ] Connect Backend
+- [ ] Store JWT
+- [ ] Logout
 
 Goal
 
-User can login from frontend
-
-
+Frontend Authentication Working
 
 Git Commit
 
-Build authentication UI
+Create authentication UI
 
+---
 
+# Phase 6 - Products
 
-\---
-
-
-
-\## Phase 6 - Products
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Product Model
-
-\- Product APIs
-
-\- Product Cards
-
-\- Product Details Page
-
-\- Search
-
-\- Categories
-
-
+- [ ] Product Schema
+- [ ] Product API
+- [ ] Product Cards
+- [ ] Product Details
+- [ ] Search
+- [ ] Categories
 
 Goal
 
-Display products from MongoDB
-
-
+Products Displayed
 
 Git Commit
 
-Add product management
+Create product system
 
+---
 
+# Phase 7 - Cart
 
-\---
-
-
-
-\## Phase 7 - Cart
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Add Cart
-
-\- Remove Cart
-
-\- Update Quantity
-
-\- Total Price
-
-
+- [ ] Add to Cart
+- [ ] Remove from Cart
+- [ ] Update Quantity
+- [ ] Calculate Total
 
 Goal
 
-Working Shopping Cart
-
-
+Shopping Cart Working
 
 Git Commit
 
-Implement shopping cart
+Implement cart
 
+---
 
+# Phase 8 - Wishlist
 
-\---
-
-
-
-\## Phase 8 - Wishlist
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Add Wishlist
-
-\- Remove Wishlist
-
-
+- [ ] Add Wishlist
+- [ ] Remove Wishlist
 
 Goal
 
-Wishlist working
-
-
+Wishlist Working
 
 Git Commit
 
-Add wishlist functionality
+Implement wishlist
 
+---
 
+# Phase 9 - Checkout
 
-\---
-
-
-
-\## Phase 9 - Checkout
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Shipping Address
-
-\- Order Summary
-
-\- Demo Payment
-
-\- Place Order
-
-
+- [ ] Shipping Address
+- [ ] Order Summary
+- [ ] Demo Payment
+- [ ] Place Order
 
 Goal
 
-Checkout completed
-
-
+Checkout Complete
 
 Git Commit
 
-Create checkout workflow
+Create checkout
 
+---
 
+# Phase 10 - Orders
 
-\---
-
-
-
-\## Phase 10 - Orders
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Order History
-
-\- Order Details
-
-
+- [ ] Order History
+- [ ] Order Details
 
 Goal
 
-Users can view previous orders
-
-
+Orders Working
 
 Git Commit
 
-Implement order management
+Implement orders
 
+---
 
+# Phase 11 - Admin Panel
 
-\---
-
-
-
-\## Phase 11 - Admin Panel
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Admin Login
-
-\- Dashboard
-
-\- Add Product
-
-\- Edit Product
-
-\- Delete Product
-
-\- View Orders
-
-\- View Users
-
-
+- [ ] Admin Login
+- [ ] Dashboard
+- [ ] Add Product
+- [ ] Edit Product
+- [ ] Delete Product
+- [ ] Manage Orders
+- [ ] Manage Users
 
 Goal
 
-Complete Admin Dashboard
-
-
+Admin Dashboard Ready
 
 Git Commit
 
-Build admin dashboard
+Build admin panel
 
+---
 
+# Phase 12 - Deployment
 
-\---
-
-
-
-\## Phase 12 - Deployment
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Deploy Backend
-
-\- Deploy Frontend
-
-\- Connect Database
-
-\- Environment Variables
-
-
+- [ ] Deploy Backend
+- [ ] Deploy Frontend
+- [ ] Connect Atlas
+- [ ] Environment Variables
 
 Goal
 
-Live Website
-
-
+Website Live
 
 Git Commit
 
-Deploy application
+Deploy Riiverse
 
+---
 
+# Phase 13 - Polish
 
-\---
-
-
-
-\## Phase 13 - Polish
-
-
-
-Status: ⬜ Not Started
-
-
+Status:
+⬜ Not Started
 
 Tasks
 
-\- Responsive Design
-
-\- Loading Spinner
-
-\- Toast Notifications
-
-\- README
-
-\- Screenshots
-
-\- Demo GIF
-
-
+- [ ] Responsive Design
+- [ ] Loading Screen
+- [ ] Toast Notifications
+- [ ] README
+- [ ] Screenshots
+- [ ] Demo Video
 
 Goal
 
 Portfolio Ready
 
-
-
 Git Commit
 
-Portfolio ready release
+Portfolio Ready
 
+---
 
-
-\---
-
-
-
-\# Features Checklist
-
-
+# Features Checklist
 
 Authentication
 
-\- \[ ] Register
-
-\- \[ ] Login
-
-\- \[ ] Logout
-
-
+- [ ] Register
+- [ ] Login
+- [ ] Logout
 
 Products
 
-\- \[ ] Search
-
-\- \[ ] Categories
-
-\- \[ ] Product Details
-
-
+- [ ] Search
+- [ ] Categories
+- [ ] Product Details
 
 Shopping
 
-\- \[ ] Cart
-
-\- \[ ] Wishlist
-
-\- \[ ] Checkout
-
-
+- [ ] Cart
+- [ ] Wishlist
+- [ ] Checkout
 
 Orders
 
-\- \[ ] Order History
-
-
+- [ ] Order History
 
 Admin
 
-\- \[ ] Dashboard
-
-\- \[ ] Manage Products
-
-\- \[ ] Manage Orders
-
-
+- [ ] Dashboard
+- [ ] Manage Products
+- [ ] Manage Orders
 
 Extras
 
-\- \[ ] Responsive
+- [ ] Responsive
+- [ ] Dark Mode
+- [ ] Product Reviews
+- [ ] Ratings
 
-\- \[ ] Dark Mode
+---
 
-\- \[ ] Reviews
-
-\- \[ ] Ratings
-
-
-
-\---
-
-
-
-\# Current Phase
-
-
+# Current Phase
 
 Phase:
+Phase 1 - Project Initialization
 
 Current Task:
+Clean the default React template.
 
+Next Task:
+Create a professional React folder structure.
 
+---
 
-\---
+# Problems Faced
 
+1. Git identity not configured.
+Status:
+✅ Solved
 
+2. PowerShell execution policy blocked npm.
+Status:
+✅ Solved
 
-\# Problems Faced
+3. Accidentally tried to create Vite in the project root.
+Status:
+✅ Solved
 
+---
 
+# Questions for ChatGPT
 
-1\.
+-
 
+-
 
-
-2\.
-
-
-
-3\.
-
-
-
-\---
-
-
-
-\# Questions for ChatGPT
-
-
-
-\-
-
-
-
-\-
-
-
-
-\-
-
-
-
+-
